@@ -1,0 +1,14 @@
+C:\Users\Banana\source\repos\PassGen\PassGen\bin\Debug\net8.0\PassGen.exe
+C:\Users\Banana\source\repos\PassGen\PassGen\bin\Debug\net8.0\PassGen.deps.json
+C:\Users\Banana\source\repos\PassGen\PassGen\bin\Debug\net8.0\PassGen.runtimeconfig.json
+C:\Users\Banana\source\repos\PassGen\PassGen\bin\Debug\net8.0\PassGen.dll
+C:\Users\Banana\source\repos\PassGen\PassGen\bin\Debug\net8.0\PassGen.pdb
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\PassGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\PassGen.AssemblyInfoInputs.cache
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\PassGen.AssemblyInfo.cs
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\PassGen.csproj.CoreCompileInputs.cache
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\PassGen.dll
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\refint\PassGen.dll
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\PassGen.pdb
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\PassGen.genruntimeconfig.cache
+C:\Users\Banana\source\repos\PassGen\PassGen\obj\Debug\net8.0\ref\PassGen.dll
